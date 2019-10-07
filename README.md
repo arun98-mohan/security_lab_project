@@ -1,7 +1,10 @@
 # Network Intrusion Detection using Decision Tree
 --------
 
-The Aim is to create a decision tree model using R to detect network intrusion using the NSL-KDD Dataset
+    The Aim is to create a decision tree model using R to detect network intrusion using the NSL-KDD Dataset
+    The Dataset is avaiable in repo with the name "train.csv"
+    80% of the Dataset is used for Training
+    20% is used for Testing the Model
 
 ## Sample prediction_table 
 ### table_mat
