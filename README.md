@@ -1,10 +1,10 @@
 # security_lab_project
-#VIEW IN RAW FORMAT
+# VIEW IN RAW FORMAT
 --------
 
 The Aim is to create a decision tree model using R to detect network intrusion using the NSL-KDD Dataset
 
-##Sample prediction_table 
+## Sample prediction_table 
 table_mat
     predict_unseen
          1     2     3     4     5     6     7     8     9    10    11    12    13    14    15    16    17
@@ -51,9 +51,9 @@ table_mat
   22     0     0     0     0     0     0
   23     0     0     0     0     0     0
   
-  ###Sum of the Diagonal Elements = 22909
-  ###Sum of Entire Prediction table = 25195
-  ###Finding Accuracy which is (TP+TN)/Entire Dataset
+  ### Sum of the Diagonal Elements = 22909
+  ### Sum of Entire Prediction table = 25195
+  ### Finding Accuracy which is (TP+TN)/Entire Dataset
   
   For finding the sum of the diagonal matrix, there needs to be a special logic applied.
   R ignores certain rows
@@ -87,4 +87,4 @@ table_mat
 
 We can see that, for wherever necessary, i have added 1 or more to the variable temp to get the actual logic of row==column
 
-##Accuracy = sum(diagonal)/totalsum = 0.909 ~ 90.9 % for this trial
+## Accuracy = sum(diagonal)/totalsum = 0.909 ~ 90.9 % for this trial
