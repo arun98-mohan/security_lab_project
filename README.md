@@ -89,3 +89,5 @@ The Aim is to create a decision tree model using R to detect network intrusion u
 We can see that, for wherever necessary, i have added 1 or more to the variable temp to get the actual logic of row==column
 
 ## Accuracy = sum(diagonal)/totalsum = 0.909 ~ 90.9 % for this trial
+
+#### Check the pdf files in the repo for sample decision trees obtained
