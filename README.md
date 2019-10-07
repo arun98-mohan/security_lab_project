@@ -1,4 +1,7 @@
 # security_lab_project
+#VIEW IN RAW FORMAT
+--------
+
 The Aim is to create a decision tree model using R to detect network intrusion using the NSL-KDD Dataset
 
 ##Sample prediction_table 
