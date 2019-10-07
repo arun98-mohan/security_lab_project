@@ -1,4 +1,4 @@
-# security_lab_project
+# Network Intrusion Detection using Decision Tree
 --------
 
 The Aim is to create a decision tree model using R to detect network intrusion using the NSL-KDD Dataset
